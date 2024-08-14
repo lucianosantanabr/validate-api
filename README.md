@@ -13,7 +13,7 @@ Application for integration with Anti-Fraud system
 
 ### Developer Environment
 
- Build docker images
+ Build docker image RabbitMQ
 ```
   ../doc/docker_script.sh  -> Script for Docker.
   ../doc/podman_script.sh  -> Script for Podman.
